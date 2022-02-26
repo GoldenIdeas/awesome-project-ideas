@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="13.704"
+   height="18.96776"
+   viewBox="0 0 13.704 26.870996"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="checkmark.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.953203"
+     inkscape:cx="2.3932304"
+     inkscape:cy="4.4004559"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     height="18.96776px" />
+  <rect
+     x="-7.2930002"
+     fill="none"
+     width="24"
+     height="24"
+     id="rect2"
+     y="-5.2930002" />
+  <g
+     id="g6"
+     transform="translate(-5.1589645,7.3914514)">
+    <path
+       d="M 9,19.414 2.293,12.707 3.707,11.293 9,16.586 20.293,5.293 21.707,6.707"
+       id="path4" />
+  </g>
+</svg>

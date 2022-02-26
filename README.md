@@ -1,123 +1,87 @@
 # Awesome Project Ideas
-This is a list for people that want to learn web development, but don't know what they should create.
+![Project Ideas](./assets/cover.png)
 
-There's also a tutorial with each idea, that you can use to get **hints** and to **guide** you when you're stuck.
-
-I really hope that you find this list useful! Contributions are always welcome.
+There is NO better way to learn web development than to get your hands dirty with a bunch of projects! And for that reason, I compiled a (growing) list of app ideas. I recommend to add these to your **portfolio**, but you can just do them to learn! 😃️
 
 ## Beginner
-![beginner](https://user-images.githubusercontent.com/100089079/155600734-e6f4a95b-c638-4d74-9d64-269cd0d59860.png)
+![Beginner](./assets/beginner.png)
 
+### Simple Calculator
+![](./assets/simple_calc_carousel.png)
 
-### Chess Game App 
- [![Watch the video](https://img.youtube.com/vi/SS5amIbX0Mo/default.jpg)](https://youtu.be/SS5amIbX0Mo) 
+What better way to start off this list than the classic example: a calculator!
 
-### 10 User Interfaces 
- [![Watch the video](https://img.youtube.com/vi/Rz-rey4Q1bw/default.jpg)](https://youtu.be/Rz-rey4Q1bw) 
+#### <img src="./assets/triangle.svg" width="15" height="15"/> Details
+<img src="./assets/checkmark.svg" width="20" height="20" alt="checkmark"/> user can enter decimals.  
+<img src="./assets/checkmark.svg" width="20" height="20" alt="checkmark"/> user can enter operators.  
+<img src="./assets/checkmark.svg" width="20" height="20" alt="checkmark"/> user can see result.  
+<img src="./assets/checkmark.svg" width="20" height="20" alt="checkmark"/> app saves history of math expressions.
 
-### Audio Book 
- [![Watch the video](https://img.youtube.com/vi/Flm2YHEFd5A/default.jpg)](https://youtu.be/Flm2YHEFd5A) 
+#### <img src="./assets/triangle.svg" width="15" height="15"/> Inspiration
+<img src="./assets/magic.svg" width="20" height="20" alt="magic wand"/> [Samsung Calculator](https://play.google.com/store/apps/details?id=com.sec.android.app.popupcalculator)  
+<img src="./assets/magic.svg" width="20" height="20" alt="magic wand"/> [Google Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator)  
+<img src="./assets/magic.svg" width="20" height="20" alt="magic wand"/> [Xiaomi Calculator](https://play.google.com/store/apps/details?id=com.miui.calculator)  
 
-### Face Recognition App 
- [![Watch the video](https://img.youtube.com/vi/sz25xxF_AVE/default.jpg)](https://youtu.be/sz25xxF_AVE) 
+#### <img src="./assets/triangle.svg" width="15" height="15"/> Hints for Javascript
+<img src="./assets/eye.svg" width="20" height="20" alt="eye"/> use [`eval()`](https://www.w3schools.com/jsref/jsref_eval.asp) to calculate.
 
-### TIC TAC TOE 
- [![Watch the video](https://img.youtube.com/vi/BHh654_7Cmw/default.jpg)](https://youtu.be/BHh654_7Cmw) 
+#### <img src="./assets/triangle.svg" width="15" height="15"/> Tutorials for React
+<img src="./assets/youtube.svg" width="20" height="20" alt="youtube"/> [Tyler Potts | 21K views | 7 months ago](https://youtu.be/oiX-6Y2oGjI)  
+[![](https://img.youtube.com/vi/oiX-6Y2oGjI/default.jpg)](https://youtu.be/oiX-6Y2oGjI)  
+<img src="./assets/youtube.svg" width="20" height="20" alt="youtube"/> [Web Dev Simplified | 73K views | 3 months ago](https://youtu.be/DgRrrOt0Vr8)  
+[![](https://img.youtube.com/vi/DgRrrOt0Vr8/default.jpg)](https://youtu.be/DgRrrOt0Vr8)  
+<img src="./assets/youtube.svg" width="20" height="20" alt="youtube"/> [Digital Solutions Master | 30K views | 10 months ago](https://youtu.be/hpfDRnijdPE)  
+[![](https://img.youtube.com/vi/hpfDRnijdPE/default.jpg)](https://youtu.be/hpfDRnijdPE)
 
-### Password Generator 
- [![Watch the video](https://img.youtube.com/vi/SwgBZ0BQNLQ/default.jpg)](https://youtu.be/SwgBZ0BQNLQ) 
+### Tic Tac Toe
+![](./assets/tic-tac-toe-carousel.png)
 
-### PDF to Audio Book Converter 
- [![Watch the video](https://img.youtube.com/vi/kyZ_5cvrXJI/default.jpg)](https://youtu.be/kyZ_5cvrXJI) 
+We all know Tic Tac Toe...
+
+#### <img src="./assets/triangle.svg" width="15" height="15"/> Details
+<img src="./assets/checkmark.svg" width="20" height="20" alt="checkmark"/> user can play offline by switching between 2 players.  
+<img src="./assets/checkmark.svg" width="20" height="20" alt="checkmark"/> user can choose a difficulty level.  
+<img src="./assets/checkmark.svg" width="20" height="20" alt="checkmark"/> user can choose a board size.  
+<img src="./assets/checkmark.svg" width="20" height="20" alt="checkmark"/> user can unlock achievements.   
+
+#### <img src="./assets/triangle.svg" width="15" height="15"/> Inspiration
+<img src="./assets/magic.svg" width="20" height="20" alt="magic wand"/> [Google's Tic Tac Toe](https://www.google.com/search?q=tic+tac+toe&oq=tic+tac+toe)  
+<img src="./assets/magic.svg" width="20" height="20" alt="magic wand"/> [Classic Tic Tac Toe](https://playtictactoe.org/)
+
+#### <img src="./assets/triangle.svg" width="15" height="15"/> Hints for Javascript
+<img src="./assets/eye.svg" width="20" height="20" alt="eye"/> efficient algorithm for [detecting the winner](https://stackoverflow.com/questions/16571035/javascript-tictactoe-if-winner-detection)
+
+#### <img src="./assets/triangle.svg" width="15" height="15"/> Tutorials for React
+<img src="./assets/youtube.svg" width="20" height="20" alt="youtube"/> [codeSTACKr | 31K views | 1 year ago](https://youtu.be/08r9mDQvXpU)  
+[![](https://img.youtube.com/vi/08r9mDQvXpU/default.jpg)](https://youtu.be/08r9mDQvXpU)  
+<img src="./assets/youtube.svg" width="20" height="20" alt="youtube"/> [Learn Code By Doing | 4.7K views | 10 months ago](https://youtu.be/mM-Se5TEmX8)  
+[![](https://img.youtube.com/vi/mM-Se5TEmX8/default.jpg)](https://youtu.be/mM-Se5TEmX8)  
+<img src="./assets/youtube.svg" width="20" height="20" alt="youtube"/> [Coding with Basir | 35K views | 2 years ago](https://youtu.be/it54tShOsuI)  
+[![](https://img.youtube.com/vi/it54tShOsuI/default.jpg)](https://youtu.be/it54tShOsuI)
 
 ## Intermediate
-![intermediate](https://user-images.githubusercontent.com/100089079/155600755-42be7d85-92e8-4282-974e-bb04f135f084.png)
+![Intermediate](./assets/intermediate.png)
 
+### Airbnb Clone
+![](./assets/airbnb-clone-carousel.png)
 
-### Airbnb Clone Application 
- [![Watch the video](https://img.youtube.com/vi/IQaCL8_bwA4/default.jpg)](https://youtu.be/IQaCL8_bwA4) 
+Airbnb has very beatiful UI... Let's recreate it!
 
-### TMDB Movie App 
- [![Watch the video](https://img.youtube.com/vi/ufodJVcpmps/default.jpg)](https://youtu.be/ufodJVcpmps) 
+#### <img src="./assets/triangle.svg" width="15" height="15"/> Details
+<img src="./assets/checkmark.svg" width="20" height="20" alt="checkmark"/> create an app whose UI is similar to that of Airbnb.
 
-### Github Jobs App 
- [![Watch the video](https://img.youtube.com/vi/fxY1q4SCB64/default.jpg)](https://youtu.be/fxY1q4SCB64) 
+#### <img src="./assets/triangle.svg" width="15" height="15"/> Inspiration
+<img src="./assets/magic.svg" width="20" height="20" alt="magic wand"/> [The Airbnb Design Blog](https://medium.com/airbnb-design)  
+<img src="./assets/magic.svg" width="20" height="20" alt="magic wand"/> [Airbnb Android App](https://play.google.com/store/apps/details?id=com.airbnb.android)  
+<img src="./assets/magic.svg" width="20" height="20" alt="magic wand"/> [Airbnb iOS App](https://abnb.me/EVmg/xw6tvraTDs)
 
-### Weather App 
- [![Watch the video](https://img.youtube.com/vi/GuA0_Z1llYU/default.jpg)](https://youtu.be/GuA0_Z1llYU) 
+#### <img src="./assets/triangle.svg" width="15" height="15"/> Hints for React
+<img src="./assets/eye.svg" width="20" height="20" alt="eye"/> Use [Material UI](https://mui.com/) to build the UI.
 
-### Business Card Generator 
- [![Watch the video](https://img.youtube.com/vi/mGORpgEOsT4/default.jpg)](https://youtu.be/mGORpgEOsT4) 
-
-### React Photo Gallery 
- [![Watch the video](https://img.youtube.com/vi/vUe91uOx7R0/default.jpg)](https://youtu.be/vUe91uOx7R0) 
-
-### Chat-Bot Application 
- [![Watch the video](https://img.youtube.com/vi/FFT4p6me2g0/default.jpg)](https://youtu.be/FFT4p6me2g0) 
-
-### Movie Recomendation Engine 
- [![Watch the video](https://img.youtube.com/vi/XoTwndOgXBM/default.jpg)](https://youtu.be/XoTwndOgXBM) 
-
-### Credit Card Fraud Detection 
- [![Watch the video](https://img.youtube.com/vi/jCoF1rMs_0s/default.jpg)](https://youtu.be/jCoF1rMs_0s) 
-
-### Wildfire Tracker With React 
- [![Watch the video](https://img.youtube.com/vi/ontX4zfVqK8/default.jpg)](https://youtu.be/ontX4zfVqK8) 
-
-### Google Drive Clone With React 
- [![Watch the video](https://img.youtube.com/vi/ljuCH6_jrYE/default.jpg)](https://youtu.be/ljuCH6_jrYE) 
-
-## Advanced
-![advanced](https://user-images.githubusercontent.com/100089079/155600769-0fa536b0-da1d-4276-af8d-58c9b3002555.png)
-
-
-### Facebook Clone Application 
- [![Watch the video](https://img.youtube.com/vi/B-kxUMHBxNo/default.jpg)](https://youtu.be/B-kxUMHBxNo) 
-
-### Netflix Clone - FullStack 
- [![Watch the video](https://img.youtube.com/vi/x_EEwGe-a9o/default.jpg)](https://youtu.be/x_EEwGe-a9o) 
-
-### Instagram Clone Application 
- [![Watch the video](https://img.youtube.com/vi/f7T48W0cwXM/default.jpg)](https://youtu.be/f7T48W0cwXM) 
-
-### A COVID-19 Tracker 
- [![Watch the video](https://img.youtube.com/vi/cF3pIMJUZxM/default.jpg)](https://youtu.be/cF3pIMJUZxM) 
-
-### Full-Stack Amazon Clone 
- [![Watch the video](https://img.youtube.com/vi/RDV3Z1KCBvo/default.jpg)](https://youtu.be/RDV3Z1KCBvo) 
-
-### Flipkart Clone Application 
- [![Watch the video](https://img.youtube.com/vi/tvdFYmJEaw4/default.jpg)](https://youtu.be/tvdFYmJEaw4) 
-
-### Voting Application - MERN  
- [![Watch the video](https://img.youtube.com/vi/0oziV0FLhXc/default.jpg)](https://youtu.be/0oziV0FLhXc) 
-
-### Travel Log - MERN STACK  
- [![Watch the video](https://img.youtube.com/vi/5pQsl9u_10M/default.jpg)](https://youtu.be/5pQsl9u_10M) 
-
-### Discord Clone - MERN STACK  
- [![Watch the video](https://img.youtube.com/vi/YzcnqYNXM90/default.jpg)](https://youtu.be/YzcnqYNXM90) 
-
-### Messenger Clone - MERN STACK  
- [![Watch the video](https://img.youtube.com/vi/8GMx8r9zQXg/default.jpg)](https://youtu.be/8GMx8r9zQXg) 
-
-### Robinhood Clone 
- [![Watch the video](https://img.youtube.com/vi/TxggrQ0nHjY/default.jpg)](https://youtu.be/TxggrQ0nHjY) 
-
-### LinkedIn Clone 
- [![Watch the video](https://img.youtube.com/vi/QaYts9sPmcY/default.jpg)](https://youtu.be/QaYts9sPmcY) 
-
-### Signal Clone 
- [![Watch the video](https://img.youtube.com/vi/MJzmZ9qmdaE/default.jpg)](https://youtu.be/MJzmZ9qmdaE) 
-
-### Gmail Clone 
- [![Watch the video](https://img.youtube.com/vi/b7nrXjS6Dqs/default.jpg)](https://youtu.be/b7nrXjS6Dqs) 
-
-### E-Commerce Application 
- [![Watch the video](https://img.youtube.com/vi/XtciU6BnQdo/default.jpg)](https://youtu.be/XtciU6BnQdo) 
-
-### Full Stack NFT Marketplace 
- [![Watch the video](https://img.youtube.com/vi/GKJBEEXUha0/default.jpg)](https://youtu.be/GKJBEEXUha0) 
-
-### Invoice Application 
- [![Watch the video](https://img.youtube.com/vi/vsJtN54aA7w/default.jpg)](https://youtu.be/vsJtN54aA7w) 
+#### <img src="./assets/triangle.svg" width="15" height="15"/> Tutorials for React
+<img src="./assets/youtube.svg" width="20" height="20" alt="youtube"/> [Clever Programmer | 169K views | 1 year ago](https://youtu.be/BtJeH_-XYaA)  
+[![](https://img.youtube.com/vi/BtJeH_-XYaA/default.jpg)](https://youtu.be/BtJeH_-XYaA)  
+<img src="./assets/youtube.svg" width="20" height="20" alt="youtube"/> [notJust.dev | 28K views | 1 year ago](https://youtu.be/ch2oOdnLkqw)  
+[![](https://img.youtube.com/vi/ch2oOdnLkqw/default.jpg)](https://youtu.be/ch2oOdnLkqw)  
+<img src="./assets/youtube.svg" width="20" height="20" alt="youtube"/> [Shloka Tech | 4.4K views | 1 year ago](https://youtu.be/JD_4iQ_gErk)  
+[![](https://img.youtube.com/vi/JD_4iQ_gErk/default.jpg)](https://youtu.be/JD_4iQ_gErk)  
